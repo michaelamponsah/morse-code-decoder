@@ -41,3 +41,12 @@ def decode_char(char)
   MORSE[char]
 end
 
+def decode_word(word)
+  word.split.map { |char| decode_char(char) }.join
+end
+
+def decode_message(morse_code)
+  morse_code.strip.split('   ').map { |word| decode_word(word) }.join(' ')
+end
+
+print(decode_message('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...'))
