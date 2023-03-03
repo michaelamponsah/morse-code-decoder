@@ -42,7 +42,7 @@
   </ul>
 </details>
 
-<!-- Features -->
+
 
 ### Key Features <a name="key-features"></a>
 
@@ -51,7 +51,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
@@ -70,65 +69,22 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-<!--
-
-```sh
- gem install rails
-```
- -->
+- Laptop/Desktop.
+- Internet.
+- Ruby & Rail.
+- Vs Code.
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
+- mkdir my-db
+- cd my-db
+- git clone [(https://github.com/michaelamponsah/morse-code-decoder.git)]
 
-```sh
-  mkdir your_folder
-  cd your_folder
-  git clone git@github.com:michaelamponsah/morse-code-decoder.git
-```
---->
-
-### Usage
-
-To run the project, execute the following command:
-
-<!--
-
-```sh
-  cd morse-code-decoder
-  Ctrl+Alt+N
-
-```
---->
-
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -147,7 +103,7 @@ Example:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
+
 
 ## 🔭 Future Features <a name="future-features"></a>
 
@@ -157,7 +113,7 @@ Example:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
+
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -167,7 +123,7 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
+
 
 ## ⭐️ Show your support <a name="support"></a>
 
@@ -175,7 +131,7 @@ If you like this project...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGEMENTS -->
+
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
@@ -185,7 +141,6 @@ I would like to thank...
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
