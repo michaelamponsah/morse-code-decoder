@@ -84,20 +84,9 @@ Clone this repository to your desired folder:
 <!--
 
 ```sh
-  cd your-workspace
+  mkdir your_folder
+  cd your_folder
   git clone git@github.com:michaelamponsah/morse-code-decoder.git
-```
---->
-
-### Install
-
-Install this project with:
-
-<!--
-
-```sh
-  cd my-project
-  gem install
 ```
 --->
 
@@ -108,7 +97,9 @@ To run the project, execute the following command:
 <!--
 
 ```sh
-  rails server
+  cd morse-code-decoder
+  Ctrl+Alt+N
+
 ```
 --->
 
@@ -192,10 +183,6 @@ If you like this project...
 I would like to thank...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
 
 <!-- LICENSE -->

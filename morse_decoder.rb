@@ -35,7 +35,7 @@ MORSE = {
   '--...' => '7',
   '---..' => '8',
   '----.' => '9'
-}.freez
+}.freeze
 
 def decode_char(char)
   MORSE[char]
